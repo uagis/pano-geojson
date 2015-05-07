@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "img": "pano1.jpg",
+        "img": "PANO_20150505_113912kk.jpg",
         "name": "patio interior IU",
         "code": "0000PB270",
         "date": "2015-05-05"
@@ -20,7 +20,7 @@
     {
       "type": "Feature",
       "properties": {
-        "img": "pano2.jpg",
+        "img": "PANO_20150505_113912kk.jpg",
         "name": "Despacho IU",
         "code": "0037P1013",
         "date": "2015-05-05"
@@ -35,7 +35,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "img": "PANO_20150505_113912kk.jpg",
+        "name": "Laboratorio Geomatica",
+        "code": "0037P1015",
+        "date": "2015-05-06"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
