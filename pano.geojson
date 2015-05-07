@@ -36,11 +36,7 @@
     {
       "type": "Feature",
       "properties": {
-<<<<<<< HEAD
         "img": "pano4.jpg",
-=======
-        "img": "PANO_20150505_113912kk.jpg",
->>>>>>> 79592d56f689c060f4b445955a4798c94b9072e5
         "name": "Laboratorio Geomatica",
         "code": "0037P1015",
         "date": "2015-05-06"
