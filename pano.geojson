@@ -1,0 +1,52 @@
+var geoJsonFile = {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "img": "pano1.jpg",
+        "name": "patio interior IU",
+        "code": "0000PB270",
+        "date": "2015-05-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5113121867179871,
+          38.382450654024986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "img": "pano2.jpg",
+        "name": "Despacho IU",
+        "code": "0037P1013",
+        "date": "2015-05-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5111485719680786,
+          38.3823896803434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "img": "pano3.jpg",
+        "name": "Lab geomatica ",
+        "code": "0037P1015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5111244320869446,
+          38.38230347608522
+        ]
+      }
+    }
+  ]
+};
